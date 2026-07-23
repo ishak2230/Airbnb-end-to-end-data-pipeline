@@ -346,7 +346,8 @@ The pipeline delivers a fully automated analytics platform that:
 ## Dashboard
 
 <img width="1303" height="726" alt="image" src="https://github.com/user-attachments/assets/69c58a92-2a62-4376-871a-4e7858c00553" />
-<img width="842" height="722" alt="image" src="https://github.com/user-attachments/assets/0604b4e9-062a-4d04-af4e-300398f9b3b9" />
+<img width="717" height="735" alt="image" src="https://github.com/user-attachments/assets/2a8d24d5-5547-4d04-832b-5279046efe89" />
+
 
 
 
