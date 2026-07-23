@@ -342,11 +342,47 @@ The pipeline delivers a fully automated analytics platform that:
 - Implements a scalable Medallion Architecture
 - Produces optimized datasets for BI dashboards and reporting
 
+## 📊 Power BI Dashboards
 
-## Dashboard
+The analytics-ready Gold layer is connected to Power BI to create interactive dashboards that provide business insights into Airbnb bookings, revenue, and host performance.
+
+### 1. Executive Overview Dashboard
 
 <img width="1303" height="726" alt="image" src="https://github.com/user-attachments/assets/69c58a92-2a62-4376-871a-4e7858c00553" />
+**Key Metrics**
+- Total Revenue
+- Total Bookings
+- Cancellation Rate
+- Average Nightly Rate
+
+**Visualizations**
+- Top 10 Countries by Revenue
+- Revenue by Room Type
+- Revenue by Property Type
+- Bookings by Price Tier
+- Booking Status Distribution
+- Revenue Trend by Year
+
+**Interactive Filters**
+- Country
+- Property Type
+
+---
+
+### 2. Host Performance Dashboard
+
 <img width="717" height="735" alt="image" src="https://github.com/user-attachments/assets/2a8d24d5-5547-4d04-832b-5279046efe89" />
+
+**Visualizations**
+- Revenue by Superhost Status
+- Revenue by Response Rate Quality
+- Top Revenue-Generating Hosts
+
+**Business Insights**
+- Compare Superhosts vs. Non-Superhosts
+- Analyze host responsiveness and revenue
+- Identify top-performing hosts
+
 
 
 
