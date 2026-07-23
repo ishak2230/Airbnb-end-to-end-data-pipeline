@@ -342,4 +342,12 @@ The pipeline delivers a fully automated analytics platform that:
 - Implements a scalable Medallion Architecture
 - Produces optimized datasets for BI dashboards and reporting
 
+
+## Dashboard
+
+<img width="1303" height="726" alt="image" src="https://github.com/user-attachments/assets/69c58a92-2a62-4376-871a-4e7858c00553" />
+<img width="842" height="722" alt="image" src="https://github.com/user-attachments/assets/0604b4e9-062a-4d04-af4e-300398f9b3b9" />
+
+
+
 ---
